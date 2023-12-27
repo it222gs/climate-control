@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/climate-control/static/css/main.3460c4a8.css",
+    "main.js": "/climate-control/static/js/main.03d2da1e.js",
+    "index.html": "/climate-control/index.html",
+    "main.3460c4a8.css.map": "/climate-control/static/css/main.3460c4a8.css.map",
+    "main.03d2da1e.js.map": "/climate-control/static/js/main.03d2da1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3460c4a8.css",
+    "static/js/main.03d2da1e.js"
+  ]
+}
