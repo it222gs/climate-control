@@ -11,7 +11,7 @@ function MQTT() {
     //const stats = []
 
     useEffect(() => {
-        const client = mqtt.connect('wss://broker.hivemq.com:8000/mqtt')
+        const client = mqtt.connect('wss://broker.hivemq.com:8884/mqtt')
 
         client.on('connect', () => {
             console.log('Connected to MQTT Broker'); 
