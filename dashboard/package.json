@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://it222gs.github.io/climate-control",
+  "homepage": "https://gh-pages--transcendent-lolly-c435f8.netlify.app/",
   "private": true,
   "dependencies": {
     "@devexpress/dx-react-chart": "^4.0.6",
